@@ -5,8 +5,8 @@ import image from '../images/cv_photo.jpg'
 const Aside = () => {
   return (
     <div className='Aside'>
-      <div className="image">
-        <img src={image} alt="photo" className='photo' />
+      <div className="image1">
+        <img src={image} alt="photo1" className='photo' />
       </div>
       <div className="contact">
         <h1>Əlaqə</h1>
