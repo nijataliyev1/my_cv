@@ -1,3 +1,17 @@
 .Datas {
-    background-color: aqua;
+    width: 50%;
+    padding-left: 40px;
+}
+
+.Datas .birth,.Datas h1:first-child {
+    margin: 15px 0;
+}
+
+.Datas ul {
+    margin-left: 30px;
+}
+
+.Datas li {
+    margin: 30px 0;
+    font-size: 20px;
 }
